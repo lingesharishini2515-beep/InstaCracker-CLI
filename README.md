@@ -31,6 +31,5 @@ Attention! Instagram may block your IP address for a large number of attempts, t
 
 <h2>🔥I'm glad you found my program useful, if you have any questions, donate me!</h2>
 <!-- <h2> Community for questions: <a href="https://t.me/+tmN2hmIaT1EwNjQy">LINK</a> </h2> -->
-<h2>Author's website: <a href="https://thewind.uz">LINK</a></h2>
 <h2>Study Platform: <a href="https://hacknow.uz">LINK</a></h2>
 <br> <br>
