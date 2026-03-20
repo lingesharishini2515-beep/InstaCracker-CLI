@@ -38,4 +38,5 @@ def insta_brute(target, pwd_size=8):
                 stack.append((current + char, depth + 1))
 
     return False
+    
 
